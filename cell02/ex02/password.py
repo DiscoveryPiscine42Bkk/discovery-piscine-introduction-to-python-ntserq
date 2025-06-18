@@ -1,6 +1,12 @@
+
 password = "Python is awesome"
-prompt = input()22
+
+prompt = input()
+
+
 if prompt == password:
 	print("ACCESS GRANTED")
+
+
 else:
 	print("ACCESS DENIED")
